@@ -1,0 +1,34 @@
+                            4.Simple Future Tense
+
+He
+She     is + going to + verb
+It
+
+I       am + going to + verb
+
+We
+You     are + going to + verb
+They
+
+He
+She
+It
+I       will + verb
+We
+You
+They
+
+EXAMPLE :
+    she is going to buy a car next week [+]
+    she is not going to buy a car next week [-]
+    is she going to buy a car?[?]
+
+    I am going to sleep[+]
+    I am not going to sleep[-]
+    are you going to sleep?[?]
+
+    I'll come tomorrow
+    I'll not come tomorrow
+    will you come tomorrow?
+
+    I'm going to delhi by tomorrow [we can use present continuous tense in future tense also]

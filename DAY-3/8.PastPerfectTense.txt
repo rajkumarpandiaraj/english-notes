@@ -1,0 +1,15 @@
+                                                8.Past Perfect Tense
+
+syntax :
+    he/she/it/I/we/you/they ---> had + Past participle
+
+when to use :
+    [describing the two actions in the past. first one in past Perfect second one in past tense.]
+    The train had left before I reached the station.
+        past perfect               Past
+        had left in 5.30pm
+        reached station in 5.35pm
+    before I reached her house, she had gone out
+
+    The train didn't leave
+    Did the train leave? 

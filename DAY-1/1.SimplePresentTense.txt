@@ -1,0 +1,61 @@
+                    1.Simple Present Tense
+
+Syntax for Simple Present :
+    He, she, It[Singular] -> s + v(s/es)
+    I, We, You, They[plurals] -> s + v
+
+When to Use Simple Present : [Positive Statement Examples]
+    Daily Activity :
+        -> He goes to temple daily.
+        -> They go to temple daily.
+    Habits :
+        -> I play cricket on sundays.
+        -> Usually I watch movies on sundays.
+    General truth :
+        -> Honey tastes sweet. [Honey is Singular so s + v(s/es)]
+        -> kids love toys.[Kids is plural so s + v]
+    Universal truth :
+        -> The sun rises in the east [sun is Singular so s + v(s/es)].
+
+When to Use Simple Present : [Negative Statement Examples].
+    He,she,It -> Does not/Doesn't + verb
+    I,We,You,They -> do not/don't + verb
+
+    Daily Activity :
+        -> He doesn't go to temple daily.
+        -> They do not go to temple daily.
+    Habits :
+        I don't play cricket on sundays.
+
+Question in Simple Present[Positive and Negative Question]
+    Daily Activity : 
+        -> Does he go to temple daily? [Positive]
+        -> Do They go to temple daily? [Positive]
+        -> Doesn't he go to temple daily> [Negative]
+    Habits :
+        -> Do You play cricket on sundays.[Positive].
+        -> Don't you play cricket on sundays?[Negative].
+
+Summary :
+    He   |               verb + s/es [Positive Statement]
+    she  |------>        Does/Doesn't + verb
+    It   | 
+
+    It      |               verb + V
+    We      |               Do not/Don't + V
+    You     |   ------>     
+    They    |
+
+    Daily Activity :
+        He goes to temple Daily. //Positive Statement
+        He Doesn't go to temple Daily. //Negative Statement
+        Does he go to temple Daily? // Positive Questioning
+        Doesn't he go to temple Daily? // Negative Questioning
+        Do they go to temple Daily?
+
+    Habits :
+        -> I play cricket on sundays.
+        -> Usually I watch movies on sundays.
+        -> Don't you play cricket on sundays?[Negative].
+        -> Do You play cricket on sundays?[Positive].
+        -> Don't you play cricket on sundays?[Negative].
